@@ -1,0 +1,2 @@
+# pyautogui
+Dotstore_automation
